@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a769a7ceefad17941ad9ed93",
+  "owner": "euqqmbpu",
+  "repo": "page-a7cd66385a60fcbc6b4916d4",
+  "title": "GoToNet",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a7cd66385a60fcbc6b4916d4",
+      "a": "GoToNet",
+      "b": "2027官方最新地址导航",
+      "entity": "GoToNet",
+      "brand": "GoToNet",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "09229209da166140fd5cd408141f69b25943fc23169f6434d8ba67ede4d9650b",
+      "content": {
+        "primary_entity": "GoToNet",
+        "keyword1": "GoToNet",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入 GoToNet 订阅。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，下载对应客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置 GoToNet",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比展开。基础版每月 100GB 流量、支持 3 台设备，适合手机与电脑轻度使用；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线游戏加速优化，适合多设备与游戏场景；团队版每月 1000GB、支持 20 台设备，提供 VIP 专属高带宽节点与企业定制路由。按年付可节省费用，用户可先确认常用设备数量与月流量需求，再选择对应套餐并完成订阅配置。",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和订阅周期三方面挑选 GoToNet 套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备数匹配。",
+          "AI_FEATURE_TEXT_2": "三档分别提供 100GB、300GB、1000GB 月流量，按使用强度选择。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省；基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "月流量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成 GoToNet 使用准备：选服务、看适配、配订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "GoToNet 提供基础版、旗舰版与团队版三档套餐，覆盖不同设备数量与流量需求。旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版支持企业定制路由。按设备选客户端并导入订阅，即可开始使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "基础版支持 3 台设备、每月 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版支持 5 台设备、每月 300GB",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备、每月 1000GB",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和月流量，在基础版、旗舰版、团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、流量与节点适配要求，确认与日常使用场景匹配。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅，在设备上完成配置后连接到 GoToNet 节点。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "GoToNet 套餐选择与订阅配置",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "GoToNet 三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线；团队版每月 1000GB、20 台设备并支持定制路由。",
+          "AI_FAQ_QUESTION_2": "年付比月付节省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 150 元，旗舰版 350 元，团队版 850 元，相当于按月付价格的十个月左右，长期使用更划算。",
+          "AI_FAQ_QUESTION_3": "同一时间可以在几台设备上使用？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量可能导致连接中断，建议按实际设备数选档。",
+          "AI_FAQ_QUESTION_4": "如何在电脑或手机上配置订阅？",
+          "AI_FAQ_ANSWER_4": "先确认设备系统，选择对应客户端，再依照客户端文档导入订阅信息。不同系统的配置界面存在差异，以客户端内说明为准。",
+          "AI_FAQ_QUESTION_5": "升级套餐后流量和设备数会立即变化吗？",
+          "AI_FAQ_ANSWER_5": "升级后新套餐的流量额度与设备数量通常在下一个计费周期生效，具体时间取决于购买渠道的处理节奏。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qxxzp.cn",
+    "host": "qxxzp.cn"
+  },
+  "file_hashes": {
+    "index.html": "44de497001fa29f36203b95d33730f0af7a3a4873c5f04efc9f93aeada5a72eb",
+    "sitemap.xml": "946cdef61591d016e58239e713518e98cf00b3accec14c5c34dc1b963394ee55",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2fc7ebe64cb617f1b60799f0f197aa9672d5cf703ce2873bd839e11cd849cc7e",
+    "robots.txt": "270088c240f84938990ad37f16e21fa4fe5b9fb7aa3e1b67aec986143d8c1bdd",
+    "265828a04c544d3bafb3fc40cbcc926c.txt": "9c7636421266f2410726717ebaf92612bd51b041cc28d05e6d6c4f25b2dbb08c"
+  },
+  "revision": "d07deb0dd24a2cb892521e557c108c19ee54d11a9d9301d1d99da689207cbb51"
+}

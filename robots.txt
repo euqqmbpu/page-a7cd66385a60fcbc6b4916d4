@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qxxzp.cn/sitemap.xml
